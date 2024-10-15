@@ -4,6 +4,16 @@ It contains two separate circuits, using the OP07N op amp.
 The two inputs are normalled to each other.
 Instead of a volume knob and a bypass switch given on the effect pedal, the module has a wet/dry mix knob for each channel.
 
+<img height="500" src="https://github.com/user-attachments/assets/60a1b3fe-ca7f-472f-991a-b350e9224391">
+<img height="500" src="https://github.com/user-attachments/assets/5f3d53a6-8f36-49fe-ba2f-99965a934508">
+
+<img height="500" src="https://github.com/user-attachments/assets/d4e88953-52b5-4f61-88f0-1f2658739ed0">
+<img height="500" src="https://github.com/user-attachments/assets/0fafc53f-b85f-41b9-8022-13580fb2b1ae">
+
+A demo of the module is available on YouTube.
+
+[<img width="500" src="https://github.com/user-attachments/assets/80b52a6f-7850-4199-8312-8c6b3417a3ea">
+
 ## Module Build and PCBs
 I added two different versions for the control board in the folder GerberFiles, an "original", and a "Thonk" version.
 Reason is that for my own module, I am using specific potentiometers - 16K4 series from Supertech Electronics - and 3.5mm jack sockets - MJ-355 from Marushin - available at my local electronics shop.
