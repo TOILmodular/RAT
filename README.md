@@ -29,3 +29,8 @@ The main PCB is the same for both versions.
 <img width="200" alt="MainPCB" src="https://github.com/user-attachments/assets/2b259b6d-f2c7-40ba-a6cd-c890b6a672f2">
 
 I created the Gerber files with the online tool EasyEDA and ordered the PCBs at JLCPCB.
+
+## Components
+The module is mainly built out of THT components. The only exception are the 0.1 uF bypass caps for all the op amps, which are 1608 (0603) SMD components.
+
+The original Pro Co guitar pedal circuit from 1978 makes use of the LM308 op amp in the central distortion segment. Later redesigns introduced the OP07 op amp instead, which I am also using in my module.
