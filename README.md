@@ -12,7 +12,7 @@ Instead of a volume knob and a bypass switch given on the effect pedal, the modu
 
 A demo of the module is available on YouTube.
 
-[<img width="500" src="https://github.com/user-attachments/assets/80b52a6f-7850-4199-8312-8c6b3417a3ea">
+[<img width="500" src="https://github.com/user-attachments/assets/80b52a6f-7850-4199-8312-8c6b3417a3ea">](https://youtu.be/0_YMZrKmIVs)
 
 ## Module Build and PCBs
 I added two different versions for the control board in the folder GerberFiles, an "original", and a "Thonk" version.
